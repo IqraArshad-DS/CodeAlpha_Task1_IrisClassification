@@ -1,4 +1,4 @@
-# Iris Flower Classification - CodeAlpha Task 1
+# Iris Flower Classification 
 
 This repository contains the implementation of the Iris Flower Classification task, completed as part of Task 1 for the CodeAlpha internship.
 
@@ -24,7 +24,7 @@ The Iris dataset, containing three flower species (`Setosa`, `Versicolor`, `Virg
 2. Open the Jupyter Notebook (Iris_Flower_Classification.ipynb) and run the cells sequentially.
 3. Use the saved model (final_gradient_boosting_model.pkl) for predictions.
 
-**Technologies Used**
+**Technologies Used:**  
   Python
   Scikit-learn
   Matplotlib, Seaborn
