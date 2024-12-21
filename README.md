@@ -25,7 +25,11 @@ The Iris dataset, containing three flower species (`Setosa`, `Versicolor`, `Virg
 3. Use the saved model (final_gradient_boosting_model.pkl) for predictions.
 
 **Technologies Used:**  
-  Python
-  Scikit-learn
-  Matplotlib, Seaborn
-  Gradient Boosting Classifier
+ - Python
+ - Scikit-learn
+ - Matplotlib, Seaborn
+ - Gradient Boosting Classifier
+
+**About CodeAlpha**
+
+This project is part of Task 1 for the CodeAlpha internship program.
